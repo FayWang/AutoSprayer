@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">欢迎使用!</string>
+    <string name="app_name">自动喷水器</string>
+    <string name="set_interval">设置喷水间隔</string>
+    <string name="set_times">设置次数</string>
+    <string name="start">开始</string>
+
+</resources>

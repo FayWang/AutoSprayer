@@ -1,0 +1,7 @@
+bin/
+gen/
+project.properties
+.project
+.settings/
+lint.xml
+proguard-project.txt
